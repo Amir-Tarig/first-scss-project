@@ -1,0 +1,19 @@
+$primary: blue;
+$secondary: black;
+
+//spacing
+$base-padding: 0.75rem;
+$base-margin: 0.75rem;
+
+//breder
+$base-border-thinckness: 1px;
+$base-border-radius: 20px;
+
+h1 {
+	color: $primary;
+}
+
+button {
+	border-radius: $base-border-radius;
+	padding: $base-padding;
+}
